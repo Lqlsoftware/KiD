@@ -6,7 +6,7 @@ As a product of [Tair-Contest](https://github.com/Lqlsoftware/KiD/blob/main/doc/
 
 KiD passed the all test in [Tair-Contest](https://github.com/Lqlsoftware/KiD/blob/main/doc/CONTEST.md) with score **35.5s(25.5 + 10)**, ranked **second** on the [leaderboard](https://tianchi.aliyun.com/competition/entrance/531820/rankingList).
 
-Tair-Contest is organized by Aliyun, Alibaba, and Intel in [Tianchi](https://tianchi.aliyun.com/competition/entrance/531820/introduction).
+Tair-Contest is organized by Aliyun - Alibaba, and Intel in [Tianchi](https://tianchi.aliyun.com/competition/entrance/531820/introduction).
 
 ## Design
 All details of the design will be available in a few days.
