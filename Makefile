@@ -89,10 +89,7 @@ CXXFLAGS += $(WARNING_FLAGS) $(INCLUDE_PATH) $(PLATFORM_CXXFLAGS) $(OPT)
 LDFLAGS += $(PLATFORM_LDFLAGS)
 
 # ----------------------------------------------
-ifeq ($(TARGET_ENGINE),)
-TARGET_ENGINE = nvm_engine
-endif
-SUB_PATH = $(CURDIR)/$(TARGET_ENGINE)
+SUB_PATH = $(CURDIR)/src
 
 LIBOUTPUT = $(CURDIR)/lib
 dummy := $(shell mkdir -p $(LIBOUTPUT))
