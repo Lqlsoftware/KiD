@@ -8,8 +8,14 @@ KiD passed the all test in [Tair-Contest](https://github.com/Lqlsoftware/KiD/blo
 
 Tair-Contest is organized by Aliyun, Alibaba, and Intel in [Tianchi](https://tianchi.aliyun.com/competition/entrance/531820/introduction).
 
-# Design
+## Design
 All details of the design will be available in a few days.
+
+## Contributor
+Team "Noodles with Soy Bean Paste":
+[@kayaklee](https://github.com/kayaklee)
+[@dodng](https://github.com/dodng)
+[@Lqlsoftware](https://github.com/Lqlsoftware)
 
 ## License
 MIT License
