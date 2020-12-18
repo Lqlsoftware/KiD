@@ -51,7 +51,7 @@ Intel Optane持久性内存（pmem）提供大容量的空间与持久性，通�
 
 ## 3. 总体设计
 #### 总体架构
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_8d82986c70148a151bd061ce0a517bea.png)
+  <img src="https://raw.githubusercontent.com/Lqlsoftware/public-imgrepo/master/image-20201218145553312.png" alt="image-20201218145553312" style="zoom:50%;" />
 如上图所示，我们的设计包含4个模块，他们的设计功能描述如下：
 * **NvmEngine**：实现评测程序的接口要求，提供写入和查询接口，组合索引结构HashMap和数据存储结构HeapTable，实现初始化、数据恢复和一些性能统计功能。
 * **HashMap**：Key-Value索引结构，提供Key到Value Postion的写入、更新和查询能力，支持无锁的并发写入和查询能力，但不支持相同Key的并发写入。
