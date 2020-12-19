@@ -10,12 +10,15 @@ Tair-Contest is organized by Aliyun - Alibaba, and Intel in [Tianchi](https://ti
 
 ## Design
 To reach better performance, KiD includes lots of optimization in its architecture.
-Details of the design is shown in the following link: [https://github.com/Lqlsoftware/KiD/blob/main/doc/DESIGN.md](https://github.com/Lqlsoftware/KiD/blob/main/doc/DESIGN.md).
+Details of the design in KiD is shown in the following file: [DESIGN.md](https://github.com/Lqlsoftware/KiD/blob/main/doc/DESIGN.md).
 
 ## Contributor
 Team "Noodles with Soy Bean Paste":
+
 [@kayaklee](https://github.com/kayaklee)
+
 [@dodng](https://github.com/dodng)
+
 [@Lqlsoftware](https://github.com/Lqlsoftware)
 
 ## License
